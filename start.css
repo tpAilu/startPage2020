@@ -1,0 +1,50 @@
+body {
+  /*
+  background: linear-gradient(to right, #c31432, #240b36);
+  */
+  background: linear-gradient(to right, #43cea2, #185a9d);
+}
+
+.top {
+  height: 110px;
+  background: linear-gradient(to right, #00f260, #0575e6);
+  color: gold;
+}
+
+.top2,
+.top3 {
+  margin-top: 30px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 20px;
+  text-shadow: 1px 1px 2px black;
+}
+
+h3 {
+  color: greenyellow;
+  text-shadow: 1px 1px 1px black;
+}
+
+h4 {
+  margin-top: 10px;
+  color: white;
+}
+
+p {
+  color: floralwhite;
+}
+
+a {
+  color: azure;
+  font-weight: bolder;
+  text-shadow: 1px 1px 1px black;
+}
+
+#h1span {
+  font-size: medium;
+  color: lightblue;
+
+}

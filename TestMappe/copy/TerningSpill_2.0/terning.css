@@ -1,0 +1,54 @@
+body {
+  background: linear-gradient(to right, #FFFDE4, #005AA7);
+  /*
+  background: linear-gradient(to right, #000000, #0f9b0f);
+  background: linear-gradient(to right, #0b486b, #f56217); */
+}
+
+.topOne {
+  background-color: #39CCCC;
+  color: black;
+  width: 70%;
+  border: 1px solid white;
+}
+
+.one {
+  background-color: #0074D9;
+  color: #56C8FF;
+  width: 70%;
+  border: 1px solid white;
+}
+
+.spill {
+  text-shadow: 1px 1px 1px white;
+}
+
+.score {
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+
+h3 {
+  margin-top: 20px;
+  text-align: center;
+  background-color: darkgrey;
+  color: red;
+  text-shadow: 1px 1px 1px black;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+#cpu {
+  text-align: center;
+}
+
+.sum {
+  background-color: darkolivegreen;
+  width: 700px;
+}
+
+#loading {
+  background-color: #39CCCC;
+}
